@@ -28,5 +28,9 @@ VTU workshop at AAAI 2022: Feb 28 - Mar 1, 2022
 
 ## Submission
 
-All the submission is done my making pull request on ``submission`` branch
+All the submission is done my making pull request.
 
+The participants should make a folder, whose folder name is considered as team name.
+Each team is allowed for a maximum of 3 submissions per task. The ``.conll`` file should be place in the team's folder.
+The submissions must be named ``test-1.conll``, ``test-2.conll``, ``test-3.conll`` accordingly.
+The last pull request for each team is considered as the official submission.
