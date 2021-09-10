@@ -1,1 +1,1 @@
-Submission folder for Domain Adaptation for Punctuation Restoration
+Submission folder for Punctuation Restoration

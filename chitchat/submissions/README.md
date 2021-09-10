@@ -1,1 +1,1 @@
-Submission folder for Chitchat Detection
+Submission folder for Punctuation Restoration
