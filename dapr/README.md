@@ -1,4 +1,4 @@
-# Task 1: Domain Adaptation for Punctuation Restoration (DAPR)
+# Task 2: Domain Adaptation for Punctuation Restoration (DAPR)
 
 ### About the task
 This task is modeled similar to task 1. 
