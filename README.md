@@ -22,7 +22,7 @@ VTU workshop at AAAI 2022: Feb 28 - Mar 1, 2022
 
 [Punctuation restoration](https://github.com/vtuworkshop/shared_task_2022/tree/main/pr)
 
-[Domain Adapttation for Punctuation restoration](https://github.com/vtuworkshop/shared_task_2022/tree/main/dapr)
+[Domain Adaptation for Punctuation restoration](https://github.com/vtuworkshop/shared_task_2022/tree/main/dapr)
 
 [Chitchat Detection](https://github.com/vtuworkshop/shared_task_2022/tree/main/chitchat)
 
