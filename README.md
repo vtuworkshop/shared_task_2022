@@ -28,9 +28,26 @@ VTU workshop at AAAI 2022: Feb 28 - Mar 1, 2022
 
 ## Submission
 
-All the submission is done my making pull request.
+All the submission is done my making pull request to this github repository.
+A maximum of three system is allowed for each task.
+The last pull request beyond the deadline is considered as the official submission.
 
-The participants should make a folder, whose folder name is considered as team name.
-Each team is allowed for a maximum of 3 submissions per task. The ``.conll`` file should be place in the team's folder.
-The submissions must be named ``test-1.conll``, ``test-2.conll``, ``test-3.conll`` accordingly.
-The last pull request for each team is considered as the official submission.
+The submission has to be organized as follow:
+
+For each task, a subfolder, named "submissions", is already created for submission.
+The participant can create a team folder (e.g. ``team-1`` in this example) to store your submissions.
+In the team folder, the participants can create upto three system folders, according to the maximum of 3 systems. These folders must be named ``system-1``, ``system-2``, ``system-3``.
+In the ``system`` folder, the participant should store the .conll files. These files should follow the same format as the training/developement/testing files (tab-separated). The filename has to be identical to the provided testing input files.
+
+
+```
+submissions/
+├── README.md
+├── team-1
+│   ├── system-1
+│   │   └── file.conll
+│   ├── system-2
+│   └── system-3
+└── team-2
+```
+
