@@ -34,15 +34,15 @@ O
 
 ### Data example
 ```
-ok	  COMMA
-let's	O
-see	  PERIOD
-so	  COMMA
-I'm	  O
-going	O
-to	  O
-call	O
-this	PERIOD
+ok    COMMA
+let's O
+see   PERIOD
+so    COMMA
+I'm   O
+going O
+to    O
+call  O
+this  PERIOD
 ```
 
 ### Evaluation
