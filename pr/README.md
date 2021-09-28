@@ -45,6 +45,9 @@ call  O
 this  PERIOD
 ```
 
+### Code base
+The participants can freely develop a code base. We also provide a code base at [https://github.com/vtuworkshop/shared_task_2022/tree/main/pr/src](https://github.com/vtuworkshop/shared_task_2022/tree/main/pr/src)
+
 ### Evaluation
 
 The system's performance is evaluated using the standard precision, recall, f-score (micro) on token-level.
