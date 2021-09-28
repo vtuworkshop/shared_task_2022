@@ -1,0 +1,79 @@
+If I were to make another rectangular selection around a tomato.	O
+It says Oh you want the tomato, I get it now.	O
+Of course, it's machine learning.	O
+AI based that doesn't mean it's going to get.	O
+Everything perfectly every single time.	O
+But it works, most of the time really well so for example, if I select this leaf well.	O
+It got belief, but it started to get a little bit of that.	O
+Salt or whatever that is next to it because it says Oh that looks like it's connected to it.	O
+I'll get that too, so again it.	O
+It's it's a AI based Adobe Sensei, based thing, so it will be as good as it could be.	O
+Now, if there is something more intricate you're trying to select you may want to switch over to the lasso like if you're trying to select things and not select other things, then you can switch over to the lasso version.	O
+Of that tool.	CHITCHAT
+And you can go in and make a selection.	O
+Around individual objects in again, um.	O
+The object select tool will make that selection, so if I was trying to select both of these leaves for example.	O
+I'm trying this before let's see what happens.	O
+It got both leaves and it made them as individual selections.	O
+It didn't select the space in between if I wanted to get both tomatoes.	O
+Using the lasso let me get both tomatoes so in a case where something is maybe too close to something.	O
+And you don't want it to accidentally pick that up to you get the lasso, especially with the Stylus.	O
+And you get the ability to go in an?	O
+Select just the objects you want so the new object select tool is freaking amazing.	O
+I can't wait to keep using that going forward.	CHITCHAT
+All right Next up?	CHITCHAT
+I'm going to close this one.	O
+And.	CHITCHAT
+That's The One I used before in the object select tool demo and a keynote the switch over to this one.	O
+All right this one's kind of cool this one kind of got snuck in an most people still don't know about this will talk about this one.	O
+And while it will look magical and it looked magical when I demo'd this into keynote.	CHITCHAT
+It's really simple.	O
+Let me explain what's going to happen, I'm going to switch over to the properties panel.	O
+And in the properties panel there's a new button called remove background.	O
+Oh my God, it's a button now it's that easy.	O
+First requirement and I didn't get a chance to say this in the keynote first requirement is that it cannot be on the background.	O
+It has to be a layer so.	O
+Either convert your background to a layer or greater layer so now that that's a layer says Layer 0.	O
+This button will appear in work So what is this doing when I click it.	O
+It does magic it?	O
+Gets rid of the background?	O
+Well, technically it didn't get.	O
+Rid of it.	O
+The background still there just masked it so that's great.	O
+It's even better that is non destructive.	O
+But what's it really doing.	O
+It's doing something you could have done all along and some of you were doing if you're just doing it manually all along.	O
+It did 2 things for me.	O
+It.	CHITCHAT
+You select subject to select the subject.	O
+And then it just it would be the equivalent of once that selections made if I held down the option or alt key and click.	O
+Make a mask.	O
+That's it 2 steps so it's just doing those 2 steps for you.	O
+It's making selection based on select or I'm sorry.	O
+Um.	CHITCHAT
+Yeah, select subject and it's masking it all in one button.	O
+That's it, so for example, if I go to the next photo 'cause again.	O
+Believing and will just make this a little bigger.	O
+It's on a layer so it'll work click remove background.	O
+2 steps in one button.	O
+Select subject.	O
+Create a mask.	O
+Done.	O
+So.	CHITCHAT
+That's what it's doing now.	CHITCHAT
+When does it work great it works great when selects subject would work great, so if you have a subject that selects subject and.	O
+Easily identify.	O
+Awesome you have a subject that select subject can't easily identify or doesn't select like her.	O
+Not going to be awesome because her would still require you to go and select and mask and mask out the hair.	O
+And then you'll be doing it that way, so in that case, it cannot.	O
+Go in and easilly do this depending on the image so someone's asking can I please tell you what resolution you're working on please?	O
+Well, I'm working on all the different all the images are different resolutions summer super big summers are web resolution.	O
+Some of these most of these are fairly large files from stock so they are all over the map.	O
+Just prints.	O
+OK Next up?	CHITCHAT
+Oh my God, remove background option came directly from the heavens above possibly but I think it was more.	CHITCHAT
+More like engineers in San Jose anyway.	CHITCHAT
+Let's go on.	O
+Now this next one this Speaking of resolution.	O
+This is a 5 gig file.	O
+It's a big file with literally hundreds of layers.	O

@@ -1,0 +1,54 @@
+Sorry for getting all salty now grown up face on hey being being a softy is good.	O
+Oh, these are left, so now we're going to start left.	O
+We got the left thigh.	O
+Got the left calf.	O
+And though this may seem a little tedious, this does pay off once we start adding bones and pins in the coming steps.	O
+So there with me will get through the tedium together.	O
+Alright, we got our left heel going to save that.	O
+Now our structure of our character is all in place.	O
+And we are in a good spot.	O
+I am going to.	CHITCHAT
+Just for now, so I don't screw them up.	O
+I'm going to lock these character layers.	O
+I don't want to mess up with my art, so we'll keep that nice and clean.	O
+We've renamed the structure layers.	O
+The next step is to bring in the built in puppet layers in the come from after effects and so these are what are actually going to start pinning our character into place.	O
+And again, we're going to be using this puppet tool.	O
+It's the pin up at the top.	O
+In the top menu you can access that tool with a shortcut command P or just hit the little pin.	O
+And actually, now that I've locked all of these layers, I'm going to turn them off.	O
+We're also going to make the joint markers a guide.	O
+So that it doesn't move into.	O
+Where are you guide layer just so that it's not ever output as a as a final piece of this project.	O
+OK, so we're going to go through each of the key joints now and add a pin in place and so I'm going to start with that right wing.	O
+Where we first started, I want to select the artwork.	O
+We're not going to pin the structure.	O
+We're going to pin the artwork and you want to get this in the exact center of the structure that has been created.	O
+So again, super tedious process but with a big payoff.	O
+I promise you we're going to have some fun later.	O
+An industry where one hour end.	O
+We will have a walk cycle done within the hour.	O
+I believe.	CHITCHAT
+Alright, so with this wing layer selected, I'm going to place a pin right in the middle of that point.	O
+And once I've done this, There's a few things that change on the screen, and if I zoom out again, you'll see that I now have a mesh over that wing.	O
+And a couple of things have shown up so up at the top of the screen, you see that there's a show in a hide toggle for the mesh.	O
+There's also an expansion, so if that mesh wasn't fully covering my artwork I could use the expansion to spread that out.	O
+Right now it's at 5, but we could.	O
+Drugs that out and you'll see that the mesh gross, but ours is fine right at 5 and so will just pop that back in there.	O
+That covers my character perfectly.	O
+You can also again increase the density of the triangles, which will give you more flexibility and more definition in the movements, but it will also increase the load that it's going to take to actually animate, so we're going to keep it relatively simple, especially on a wing where it's mostly going to flap and spin.	O
+OK, so let's.	CHITCHAT
+So.	CHITCHAT
+And for this, the only point that we need to pin is is that connection point where the wing is going to connect to the shoulder and so the only thing that will happen here is this pin.	O
+The next thing that we need to look at and this is just a kind of a complication of the way that the duik plugin works, but now within the wing layer we've added an effects set of properties and as a part of that we have this puppet engine drop down and.	O
+What we want to do is switch it to legacy.	O
+And we want to use legacy because that is what do.	O
+It works with.	CHITCHAT
+It also controls A little bit of how.	O
+Uh.	CHITCHAT
+A little bit of how the animation is going to work in the flexibility that we have just want to make sure that my mesh is still good to go cool.	O
+So we've got legacy turned on.	O
+We don't need to worry about anything else in here except if we go into.	O
+A puppet.	O
+I'm going to rename this wing right wing.	O
+Actually, I think we can just name it wing because it's buried inside of right wing and when you have layers that have more.	O

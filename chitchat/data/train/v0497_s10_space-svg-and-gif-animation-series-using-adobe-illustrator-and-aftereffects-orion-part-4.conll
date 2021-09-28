@@ -1,0 +1,52 @@
+Contributed coordinates only lost machines coordinates just can't make sense of them yet.	O
+Yeah, so the.	CHITCHAT
+The interesting thing was open this up.	O
+This is a good thing is trying to talk about and I want to make sure that that cover it while you're here watching.	O
+I will of pop open this SVG animation is not dawn of the constellations, so if we open our very first one, which is the constellations I'm going to open it with an open source edgers.	O
+I like to use called Adam.	O
+And I like using Adam because it shows it has an add-on that she gives me an SVG preview while I'm working.	O
+So this is what your SVG is going to look like.	O
+For our spaces.	O
+Consolation one where we had just the stars rotating right.	O
+Server very first one that we're using is like the template for all of these, like, well, templates, so like original that you were basing his style of all these new ones off of right.	O
+This is why I like Adam alot 'cause I get this little I have this little space SVG preview window.	O
+So.	CHITCHAT
+So yeah, uhm, you work in.	CHITCHAT
+I don't want to do that.	CHITCHAT
+Not right now.	CHITCHAT
+You look in here once you start diving into.	O
+Did you animations?	O
+You're really start to understand not just like a lot more about CSS and HTML in general, but just how illustrator make how illustrator files are generated.	O
+So it's really helpful information ago.	O
+See here, these are all of the, UM, styles.	O
+In this case, we have a whole bunch of stuff going on here with all of the different stars and stuff like that.	O
+All the different colors and everything.	O
+Well, thing to note about SVG animation, plus extras in general is they don't custom brush strokes.	O
+Custom line with some stuff like that don't transition over.	O
+But you have to like expanding lines so you won't be a wind up with like skills something.	O
+So that's probably why we're getting so many of these.	O
+'cause I used the brushes and they had to expand them first in the background stuff.	O
+Anyways, if you scroll through, pass all of that now these are all of the classes for all the different elements anuar illustrator file and if we looked out in here so the blob that with this group here called BLOB too is probably one of these shapes that we added in the background.	O
+And what is happening here is there's a.	CHITCHAT
+All of these.	CHITCHAT
+Numbers are basically a coordinate system for the points for that shape.	O
+But it's more complicated than that.	O
+It's not just taking in saying You know you have a static X&Y coordinate system, right?	O
+It's it's a coordinate system that's like here the points.	O
+The location of the points that make up the shape, but also like the position of the points in relation to each other, so it's all relative to itself because.	O
+As user responsive right?	O
+So if I open this up in.	O
+Home for example.	O
+I can scale this down.	O
+Scale enough, right sponsor?	O
+So that's why the coordinate system is pretty complicated, but.	O
+It's helpful to know this kind of stuff because for example, when I did that donut animation using pie charts.	O
+Sees all of anime as far as I understand it is very similar and that is trying to move the point some.	O
+So if you have four points that make up a circle.	O
+And you take that circle and copy and paste it and you move one of those points.	O
+As long as, like, it's going to follow point 1.2 and try to like.	O
+Anime between her, so the trick to making that.	O
+Hum.	CHITCHAT
+Donut animation work using the pie chart is that the shape that the pie chart tool generates an illustrator looks like this at 100%, and so you wind up having this really handy.	O
+These handy points right in the center here so that as you animate between the different masks of that shape in XD it's it's basically moving between these points, right?	O
+We can imagine for a second XT.	O

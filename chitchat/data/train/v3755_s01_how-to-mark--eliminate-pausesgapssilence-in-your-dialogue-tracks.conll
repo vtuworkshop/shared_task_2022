@@ -1,0 +1,81 @@
+Uh.	CHITCHAT
+Fly out menu which.	O
+It's also an odd choice of a name, there really marking an audio shouldn't be in effect, but alright whatever.	CHITCHAT
+Uh.	CHITCHAT
+Note to the engineers if anyone's anyones watching right now, we need to kind of rethink that one.	CHITCHAT
+Um declare that the Clipper.	O
+Delete silence and then Mark Audio.	O
+We're going to focus on Mark and delete silence today.	O
+All right.	O
+Now, as always, we give you a couple of preset options will talk about these.	O
+I'm actually going to show you this kind of the manual way 'cause I think you're going to get a lot more.	O
+A lot more mileage a lot more of ease of use out of this feature.	O
+And the manual way is really just as easy so I'm going to show you how alright so first.	O
+Let's take a listen.	O
+This is just something that I recorded.	O
+Uh just a few minutes ago as an example here.	CHITCHAT
+Uh what's up, Tim just to kind of showcase?	CHITCHAT
+What we're looking to do here and you can kind of see already if you're an audio person.	O
+You can see the gaps you can see what we'd likely want to cut out or remove.	O
+If nothing else.	O
+This also makes it easier to manipulate that dialogue in the multi track or wherever your going to be assembling this alright.	O
+Let's just take a quick listen 1st in here what we've got.	O
+In today's brief tutorial.	CHITCHAT
+I'm going to show you how to use auditions marking features to eliminate pauses.	CHITCHAT
+The main idea here is that if you have elongated pauses.	CHITCHAT
+You can automatically mark these and then take them away.	CHITCHAT
+Now of course, there is a tradeoff here as sometimes you want the pauses to kind of convey mood or emotion.	CHITCHAT
+But you do have some options to adjust that duration and make things a little smoother.	CHITCHAT
+In the process.	CHITCHAT
+OK.	O
+So.	CHITCHAT
+In a somewhat uncharacteristic way I'm reading this very deliberately and slowly.	O
+Perfectly timed hydration break thank you.	O
+Dude, I miss your comments it's good to virtually CU Evan Abrams, everybody you should check out EC Abrams.	CHITCHAT
+Channel on YouTube by the way if you're looking for.	CHITCHAT
+To really understand after effects motion graphics motion design.	CHITCHAT
+Evan Abrams Good Buddy of mine, he spent on Adobe live multiple times.	CHITCHAT
+He's hosted Adobe live.	CHITCHAT
+Um.	CHITCHAT
+A true fountain of knowledge and I highly recommend his channel so.	CHITCHAT
+Be sure to you should put that up in the chat or something.	CHITCHAT
+Dude, OK alright so you've got my audio in front of you here.	O
+All right, so let's go to diagnostics an first.	O
+The first thing I just want to do is show you how you can mark the audio.	O
+Not even talking about eliminating pauses or silence just yet.	O
+Just marking it because ultimately this is a pretty short piece.	O
+But if I've read copy for let's say 30 seconds a minute.	O
+And I'm doing this for a commercial for voice over or something.	O
+It just comes it becomes really handy if I can just very quickly kind of separate.	O
+All the little spoken pieces.	O
+So here on Mark Audio.	O
+I'm going to use I'm actually in a default preset here.	O
+I just changed something earlier on.	O
+But the first thing you're going to do.	O
+Is scan the audio and when you do that?	O
+It's going to identify sections that it thinks are rich with audio content.	O
+Now there's a secondary function here if you click on the settings button all right now, this by default.	O
+This may look a little daunting a little scary.	CHITCHAT
+Super nerdy.	CHITCHAT
+Effectively, this isn't a section that uses the algorithm to define what is silence and what is audio now?	O
+You can look at this visually or you can read meters there, you go YouTube.	CHITCHAT
+Com EC Abrams OK.	CHITCHAT
+Thank you Evan.	CHITCHAT
+You can use this or look at the meters or look at the actual waveform view and kind of determine.	O
+What signal defines silence so anything below you can see here negative 67 DB for more than 100?	O
+Milliseconds is determined as silence and audio is anything above minus 58 for more than 25 milliseconds OK.	O
+Now this was actually done via this find levels button, so you don't even have to do anything if you click on that.	O
+It's going to identify what are effectively threshold levels OK so it's going to do all of this for you?	O
+Now again it's not always going to get it exactly right.	O
+I tend to think this probably is pretty good, so let's go ahead and just.	O
+Scan this one more time OK, so I found these 5 sections.	O
+Alright go ahead and let's Mark all.	O
+Click on Mark all.	O
+And just by doing that what you'll see.	O
+Now is it has gone in and created marker regions for.	O
+Each of the spoken passages an in the markers panel.	O
+In audition, which you can see whoops, which you can see right over here.	O
+I now have 5 sections with their start and end times and their duration basically isolating all of those spoken.	O
+Messages so let's take a listen and see what it did let's click on the first one here.	O
+In today's brief tutorial.	CHITCHAT
+I'm going to show you how to use auditions marking features to eliminate pauses.	CHITCHAT

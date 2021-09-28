@@ -1,0 +1,64 @@
+As we did when we created bones, an connected things together.	O
+On the.	CHITCHAT
+Oh, there we go, Jack coming in with the other link for the challenge for illustrator, which is great.	O
+Um mouse going to get you.	O
+This is great, so now is going to get you a link to the discord for for the Adobe software.	CHITCHAT
+And what's great about the discord?	CHITCHAT
+If you're willing to ask questions and join in the chat, is that there are mentors, teachers, Adobe team.	CHITCHAT
+There's all sorts of people in there who will be always willing and really supportive, willing to ask questions and mouse totally right.	CHITCHAT
+It is a safe place to learn.	CHITCHAT
+It's really great.	CHITCHAT
+Particular saying I tried, it'll be character and it was too much to follow, but yes, definitely check out the challenges.	CHITCHAT
+They are great.	CHITCHAT
+Small little exercises to try and they also make videos that go along with them so you can get ideas and tips.	CHITCHAT
+Alright cool, so now it's going to Hook you up, that's awesome.	CHITCHAT
+Thank you so much metal for for helping out and.	CHITCHAT
+For sharing all of this.	CHITCHAT
+I should be making.	CHITCHAT
+I know we're getting late in the stream here, but I should make you mow.	CHITCHAT
+Oops.	CHITCHAT
+Alright, my page isn't what page isn't cooperating, but I should set you and Jack up as moderators.	CHITCHAT
+I'll remember to do that.	CHITCHAT
+Do that next time.	CHITCHAT
+If you're hanging out.	CHITCHAT
+OK, so we've saved that rig that way.	O
+If we make a mistake now we do not have to worry about it.	O
+I'm going to take a quick drink.	CHITCHAT
+The subject will go for some seltzer.	O
+We're going to try and set up a.	O
+Um?	CHITCHAT
+Walk cycle.	O
+So check this out.	O
+This is super cool and I cannot guarantee again that this is going to work for my character.	O
+We're going to try it if it doesn't work, will do some revisions and we'll work it out in the next dream.	O
+But the duyck rig or this do it plugin rather has a lot of built in functionality.	O
+There are all sorts of things that it can do for you.	O
+We're not going to go into all of them tonight, but we are going to look at this second tab outside of the rigging.	O
+Tools the second tab in the Duyck Plugin, which has all these different automations.	O
+One of these automations is the walk cycle and the walk cycle has all sorts of properties that you can set.	O
+You can tell it if it hasn't recognized it on its own and it should if you've rigged it properly.	O
+You can tell it which controllers to use for your character.	O
+Let me just turn off these.	O
+You don't want to see the anchor points of everything here.	O
+So you can tell it if you've changed controllers, which controllers to use, but it's looking for the controllers for each of the parts of the body from which it's going to build a walk cycle.	O
+When we click this button, it should generate that walk cycle for us.	O
+So let's hit this walk cycle button with.	O
+I've never had to do it.	O
+Let's hit the walk cycle button.	O
+Will see if this is actually done.	O
+It's thing, so we're just going to stop for a moment.	O
+If if this worked, we now have a life cycle, so I'm going to make this view a little smaller.	O
+Let's make our composition a little smaller so we can move this.	O
+Let's see our timeline.	O
+So I just want to see the duration here.	O
+OK, let's make this little probably fine.	O
+OK, so now if I unselect everything you'll see that there's this new icon right in the middle of my character.	O
+And so I'm going to zoom in here and you see this character with a foot and like a gear icon with the play button in it.	O
+And this is the controller for the walk cycle and you'll see when I select it.	O
+There's a new layer over on the left called block cycle.	O
+So holy wow, if all if everything works will have a walk cycle along with that white walk cycle.	O
+Now I'm so excited.	CHITCHAT
+I can't speak properly, but along with that walk cycle	O
+Just as with everything else, you have all sorts of properties that you can set, so again we can move this controller out of the way and will do that.	O
+You can move the anchors, hide those things, do all of that.	O
+You can also set the properties of your walk cycle and will play with those in a second.	O

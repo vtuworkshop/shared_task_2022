@@ -1,0 +1,84 @@
+So.	CHITCHAT
+A really quick way.	O
+To mark the audio.	O
+Identify spoken sections.	O
+Export as separate files or take those marks sections from the multitrack.	O
+Split them.	O
+And then freely move them around OK.	O
+Couple of different cool options, there alright.	CHITCHAT
+But we're not done yet.	O
+Let's go back over to this, let's go back to our original file and I'm actually going to.	O
+Let's remove.	O
+Remove all of my.	O
+All my markers.	O
+All right.	CHITCHAT
+Why is it not letting me delete my markers?	CHITCHAT
+Let me get rid of all these things 1st.	O
+OK.	O
+All right back over to diagnostics.	O
+So.	CHITCHAT
+I mentioned there's a couple of resets in here OK.	O
+We're going to give this a shot.	O
+I don't know how well it's going to do so you'll see that there are 3 in here right.	O
+One is ignore short sentence is.	O
+OK, I'm not quite sure what that means another is mark non silent areas.	O
+That's what we just did right.	O
+We marked non silence so we marked dialogue.	O
+Interesting choice.	O
+Mark non silent and then mark the speech.	O
+I never notice that aren't those both the same thing.	O
+I don't know I don't know what any of this means.	CHITCHAT
+Alright well, let's see what happens if we do.	O
+Mark non silent areas.	O
+I don't know what that's supposed to do.	CHITCHAT
+I'm going to scan OK, it found 5 sections who wants to guess it's going to mark the same ones.	O
+Yeah, it did because non silence would be dialogue OK.	O
+Let's check out the second reset here mark the speech.	O
+Let's can.	CHITCHAT
+OK, now this, this found 23 sections.	O
+So let's click on Mark all.	O
+OK, So what mark the speech did is it identified more notes for the engineering team, it identified sort of.	O
+Each section.	O
+Or piece of talking.	O
+Inside.	O
+The dialogue, he ran it, even left off a few so like.	O
+Here is here is here is.	O
+Have have?	O
+Elongated long gated.	O
+Follow up.	O
+Automatically marked automatically marked automatically mark I mean, I guess there's some use for this.	O
+Um.	CHITCHAT
+Perhaps.	CHITCHAT
+I don't really know so as I told you that the pause thing I don't know.	CHITCHAT
+I'm just I'm just not I'm just not sure.	CHITCHAT
+But here we're going to get to the house is now because now I just showed you we showed you how to mark.	O
+The audio that you want.	O
+Let's talk about eliminating the audio that you don't want which in this case.	O
+Is silence OK now again under the preset menu here?	O
+You've got keep fun parts speed up the lecture trim long silent pauses.	O
+Trim short digital dropouts, OK and again.	O
+We're under delete silence.	O
+Here, now, so I switched it from Mark audio to delete silence alright.	O
+I'm going to just go to the settings again and click on find levels OK and it's going to do its analysis here.	O
+So let's see OK.	O
+And let's go ahead and scan.	O
+Right and it found 5 problems 5 areas of silence so let's see how it did.	O
+Let's delete them.	O
+And it looks pretty good all right, and let's take a listen to what it did the main idea here is that if you have elongated pauses you can automatically mark these and then take them away.	O
+Now of course, there is a tradeoff here as sometimes you want the pauses to kind of convey mood or emotion.	O
+But you do have some options to adjust that duration and make things a little smoother in the process.	O
+So all of this sounded pretty good, except that last little bit right there because there was just.	O
+There's just not enough pause things a little smoother in the process things a little smoother in the process.	O
+Right so I might come in here.	O
+And add a little silence, which by the way is up under the edit menu.	O
+Insert.	O
+Silence.	O
+And you know something like.	CHITCHAT
+You know a 10th of a second here.	O
+Things a little smoother in the process right just like that.	O
+So now it sounds so much more just normal like normal pace duration and make things a little smoother.	O
+In the process.	O
+100 milliseconds.	O
+How did you know 100 milliseconds a 10th of a second?	O
+Again think about like standard kind of pausing if you're talking.	O
+This isn't slow this isn't rapid it's just kind of.	O

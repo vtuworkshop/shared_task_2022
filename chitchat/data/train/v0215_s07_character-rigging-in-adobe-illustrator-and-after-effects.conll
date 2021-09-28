@@ -1,0 +1,48 @@
+And let's do it so if you were going to not use duyck to use this plugin as a part of your reading process, you probably use illustrators pin or puppet tool.	O
+The puppet tool is this little pin up at the top menu and if I choose this and then start placing some pins, let's play Swan.	O
+If I select my wing.	O
+If I place a pin right here I get this mesh created.	O
+Over my character, which is kind of cool.	O
+And you can see that it's taken on the shape of my.	O
+Of the wind.	O
+And there's a whole bunch of triangles that are making it up so meshes.	O
+Just if you done any 3D modeling, amash is a mapping of of a shape you just created the triangle so you can see all of these triangles are polygons.	O
+Here an I have all sorts of controls where I can expand or make more dense the triangles.	O
+The more that you do that obviously the heavier the file and the resulting interactions will become.	O
+But I have all sorts of deforms and things that I can do.	O
+Once I have that puppet pin in place.	O
+Now, of course, with just a puppet pin in place, I'm not getting a lot of the other built-in pieces that I could get.	O
+I'm not going to get interactions between pins, so if I was to put pins in all of these legs, I would be able to move the leg around against those pins, but I could completely deform the.	O
+Maybe show it here.	O
+I could completely deformed that.	O
+That character I could stretch the leg out across the canvas.	O
+There's nothing to really control what that what that puppet pin is doing, so.	O
+What I'm going to do?	CHITCHAT
+Let's just back up for a moment and.	O
+Make sure that.	CHITCHAT
+If I select this win, we're good to go, alright, so let's turn off the.	O
+That layer we don't see it right now, and so instead of just placing puppet pins, what do it?	O
+What they do it plug in is going to do as a part of this.	O
+Rigging processes help us create a skeleton or a structure for our rig.	O
+We're going to be connecting that two puppet pins in other effects and all of the magic that happens in the background with Buick is going to script and create lots of expressions that will make sure that I can't do things like stretched the knees so far out that the character is now impossible, and it wouldn't actually be able to walk her move.	O
+And so let's get into that process and start exploring the duyck tool.	O
+So the first thing that you do, and the way the tool is set up is really helpful because it helps you.	O
+Kind of walk through a process.	O
+When you select the rigging icon in do it, which is right here and I'm going to make this a little smaller so we don't need that much space in it.	O
+When you select the rigging icon up here at the top, there are three steps in this rigging process and so the first one here is rigging and you get this structures view and in the structures view we have options of hominoid which is got this little skull and legs or maybe an arm and a leg.	O
+Then there's an arm or a front leg.	O
+We have a leg option, spina tail.	O
+We have custom and then a whole bunch of other pieces below.	O
+We're not going to worry about what's below for now, but if you zoom out.	O
+Let me just click the hominid button so that we can see what it does.	O
+So I click homonid and all of a sudden there's all these new layers that are getting created in after effects.	O
+My computer is working hard, there's so much that's going on, and if we go ahead and turn off all of the pieces of my character and zoom in a little bit here you can see that what has been created for me is.	O
+This structure that looks a little bit like a person standing up.	O
+There are some legs and feet here.	O
+There are some arms.	O
+There's a spine, and then if you look over in the layers you can see that there are a whole bunch of layers that have been created and these are all labeled heel tip to toes.	O
+Foot Cav.	O
+So pieces of a structure that I'm going to map to my character.	O
+Now my character is much simpler than that hum net I don't need.	O
+All of these pieces in the structure, so I'm going to back out of that.	O
+And rather than just generating a hominid, I'm going to customize what elements should I need to create my rig, and so the first thing that I'm going to take a look at our the arm options and the options are access into it in these little these little dots to the right of its inspector panel.	O

@@ -1,0 +1,57 @@
+You can see it's totally black because there's no room between the pixels.	O
+So we drop this down a bit and you start to get a little bit of gap there eventually.	O
+So if you have a large scale, but a small patterns per inch.	O
+You'll get much bigger further apart dots like this.	O
+And it looks pretty polka dot E so if that's what you want.	O
+But that's not what I want in this case so knowing what I know now.	CHITCHAT
+I want my dogs to be smaller.	CHITCHAT
+So we dropped the pattern scale.	O
+I want closer together as we increase the patterns per inch for some people that's incredibly obvious for me.	O
+It was not told me a little bit of time to really get a good feel for exactly what those do an in fairness.	CHITCHAT
+I tend to rush things.	CHITCHAT
+I don't like to spend a lot of time learning?	CHITCHAT
+What things do so.	CHITCHAT
+I often will find myself.	CHITCHAT
+Just like clicking buttons and seeing what changes without thinking, too hard about it.	CHITCHAT
+But I thought about it a lot harder and I have a pretty good grasp of how it works.	CHITCHAT
+Uh as far as like efficient workflow I'm not quite there.	CHITCHAT
+Yet it will often probably take me a few times to figure out what's best for what I want to do, but this should be roughly OK for what we want here, so there, we go.	CHITCHAT
+There is a quick screen tone pretty straightforward.	O
+Weirdly, though they're not they're not aliased there grayscale tones, which will increase the size of your image that is one thing to bear in mind when working with screentones if their flat black and white they won't have all the grayscale information.	O
+And just having the grayscale information will like probably double your file size.	O
+So you may want to like do a pass on like grayscale or bitmap to reduce that color information, but that isn't going to bear in mind.	O
+I think they all will be without color.	O
+They should all be like a flat.	O
+Grayscale value.	O
+Which helps tremendously?	CHITCHAT
+But that is something to bear in mind, if file size is a factor in most cases like it's 2020 typically having a sized image.	CHITCHAT
+That's a little too.	CHITCHAT
+Large won't be a problem.	CHITCHAT
+Obviously, like a decade ago, maybe even 2, decades ago.	CHITCHAT
+File size was super important optimization with super important you don't really have to worry so much about that.	CHITCHAT
+Nowadays, but I like to keep my files as small as possible so I'd like to try to minimize that as much as I can.	CHITCHAT
+Give a nice band to hear what I want to do for this band is actually give it a gradient, which this can do it's fantastic.	CHITCHAT
+There's an advanced tab here.	O
+You can change your pattern type so we've been using circle for the most part, but like you can do a heart like I did earlier you can do like a star.	O
+You can do all kinds of things here pretty cool and even change your pattern color, which uses this weird like legacy color.	CHITCHAT
+Picker I guess.	CHITCHAT
+It's weird.	CHITCHAT
+I don't like that.	CHITCHAT
+And also you can change the PPI, which were using 600, so I'll just put that there.	O
+Uh.	CHITCHAT
+But I wanna add a gradient so you have this pattern gradation.	O
+And it's got a couple of options here all of which are previewed pretty nicely.	O
+This is return.	CHITCHAT
+I don't know what half of these mean I don't know what happened imply so that's unfortunate, but we have, like a normal gradient, which is really just a pretty simple black to white.	CHITCHAT
+Black to grey black to whatever gradient.	O
+And you can influence how that looks based on now we have 2 sets of patterns skills and patterns per inch methods one for each side of the gradient so we'll get our first gradient looking pretty good.	O
+A little bit, not, that one that's the scale to do this.	O
+Smooth out there and then put this here like there.	O
+There we go.	O
+Sorry it's a little bit weird.	CHITCHAT
+I want to get a much more clearly defined.	O
+Camels my brain, a little bit there, we go.	CHITCHAT
+There we go there is our gradient and you can also.	O
+Change the rotation of that and the rotations have proven to be very weird the slider doesn't update.	O
+Very quickly.	O
+And you can't really manually put in values, too easily either trade zero and like you can't really click away 'cause it doesn't really update.	O

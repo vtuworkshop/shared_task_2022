@@ -1,0 +1,59 @@
+So did this.	CHITCHAT
+So this one is his.	O
+Right leg.	O
+This is his left leg.	O
+So I'm going to say that so now I have everything split out into layers.	O
+Not going to worry too much about the splitting out the shadow in the characters.	O
+I don't need to do anything with that in the animation.	O
+That's that I'm working on.	O
+All right?	CHITCHAT
+Sip.	CHITCHAT
+Let's continue on.	CHITCHAT
+So now that he split it into layers, there's a few more things that I want to do, so I did a little bit of experimentation with this character earlier, and the one problem that I was having with it is that this walk cycle I'm going to create.	O
+He's going to walk across the screen and right now the way his feet are pointing, he would kind of walk off at an angle, and so I'm going to point these feet a little bit more.	O
+To the right.	CHITCHAT
+To the right.	CHITCHAT
+This is hard to do on camera.	CHITCHAT
+Here we go to the right.	CHITCHAT
+That way, well, there you go to the right.	O
+We're going this way, so I'm going to modify his feet.	O
+Would have been the better way to approach that Alright?	O
+And the other thing that I want to do is to split the foot from the leg and the reason for that is I want to have a really clean pivot point so when this character is walking I want to easily be able to identify his heel, his foot, the toes and that way I can get a nice bend as well as the bend from the ankle like where the ankle leg connects to the foot.	O
+So maybe will do that first because that will help us re position.	O
+An I'm just going to hide the left leg and will start with this right one.	O
+And so I'm going to grab the points from here, actually.	O
+Don't do this.	O
+And I'm just going to cope, not that much.	O
+This.	CHITCHAT
+Make a copy.	O
+Will work on the foot over here.	O
+And we'll just get rid of all of that stuff.	O
+And we'll use that once a reference for a moment.	O
+So I really want to turn this.	O
+Sideways.	O
+Mauby, welcome to the stream.	CHITCHAT
+Thank you for joining.	CHITCHAT
+Saw you in Ryan Stream a little earlier.	CHITCHAT
+Was a lot of fun watching Ryan creating his his furniture.	CHITCHAT
+But yet so tonight we are working on rigging this little character, whose name is chicken yellow.	O
+He's an egg yolk that came to life.	O
+So I'm in the process of modifying his foot so that we can have his foot positioned horizontally instead of.	O
+At an angle.	O
+So when I connect it, I wanted to connect something like this, but maybe not have his toes be quite so splayed out.	O
+So I'm going to drop.	O
+Come down a little bit.	O
+In fact, I'll bring this one up.	O
+And just fix.	O
+This line.	O
+Mouses like goof around a lot with friends.	O
+Sorry you look at him.	O
+He's punk.	O
+I dig nice.	O
+Alright, so.	CHITCHAT
+That probably works for the foot there just going to bring this down.	O
+This down.	O
+And just get a yeah something like that should work nicely.	O
+So I need to.	O
+Kill that point.	O
+And we'll just connect the foot there.	O
+But instead of just rejoining that, what I'm actually going to do is put a circle in the bottom of this.	O

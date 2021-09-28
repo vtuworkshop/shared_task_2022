@@ -1,0 +1,41 @@
+OK.	CHITCHAT
+It looks like.	CHITCHAT
+We are live.	CHITCHAT
+Hello.	CHITCHAT
+How is everyone today good morning Good afternoon good evening?	CHITCHAT
+Wherever you are in the world?	CHITCHAT
+My name is Jason Levine and for today's brief live stream.	CHITCHAT
+We're going to be talking to you about something that I get asked about a lot.	CHITCHAT
+In fact, it was recently asked on my YouTube channel.	CHITCHAT
+And so I thought I'd showed you today, which is quite simply what's an easy and somewhat automated way to remove?	O
+Gaps or more importantly, how to identify mark and find gaps and silence and other things in your dialogue tracks.	O
+And then what are some best practices are easy ways to remove them?	O
+I'm going to show you some of the options here again some of this is automated.	O
+Being automated, it doesn't always get it right the first time, but you've got lots of flexibility.	O
+And I'm going to show you that in Adobe audition, so as always give a couple shots into the chat here Marco.	O
+Ankit Yoni Saeed.	CHITCHAT
+Celine very cool nice to see you Nachman Tab from Brooklyn great to see you karrar.	CHITCHAT
+Anna ground from Sweden Hello.	CHITCHAT
+Hey.	CHITCHAT
+Paolo Thomas, Daniel Velez Sebastian nice to see you Daniel Everado from Midland, TX.	CHITCHAT
+Very nice alright, an let's see we've got Donald ping.	CHITCHAT
+An evil series what's happening good to see you all.	CHITCHAT
+All right.	CHITCHAT
+And usually and we've got have got some people over and be Hans great to see you as well, Desiree.	CHITCHAT
+EC Abrams, how are you doing OK alright well let's go ahead and get right to it?	CHITCHAT
+And we're going to hop over to hold on.	O
+Let me just minimize my focusrite mixer here.	O
+An let's hop over to audition OK.	O
+So as mentioned there's a lot of there's a lot of ways to do this?	O
+What's up CUDA cash.	CHITCHAT
+Uh there's a lot of different ways to do this.	CHITCHAT
+But in a really easy way is to use the diagnostics panel where we actually have.	O
+A mark audio function now for those of you who are kind of old school.	O
+You know that we used to have lots of different options for marking.	O
+Dialogue and silence and pauses and things in previous versions of audition lot of that tech has been confined to the diagnostics panel.	O
+It's just kind of hidden in there, I've shown the clipping in there, I've shown the clicking in there.	O
+I'm not sure if I've shown recently the mark audio section.	O
+So the first thing you want to do is go.	O
+Your window menu.	O
+And open up the diagnostics panel not sure where it's going to dock for you by default, but you can see that I've got mine.	O
+Duct up here in the upper left an under the effects.	O

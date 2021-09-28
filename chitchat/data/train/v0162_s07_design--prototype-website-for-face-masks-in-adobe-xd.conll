@@ -1,0 +1,58 @@
+Yeah, I'm just going to resize this here.	O
+And I'm going to move this.	O
+I'm going to move this blue.	O
+Then I'm gonna position is this.	O
+Right here, so if I turn off the grid, let's see what that looks like.	O
+Download this over a little more.	O
+There.	CHITCHAT
+So I'm actually going to delete.	O
+This is going to move.	O
+This decides.	O
+I think I'll be using that later.	O
+An I'm just basically configuring everything, moving things around.	O
+To my liking.	O
+OK, so now I'm just going to grab this top NAV and I'm going to place it at the top.	O
+Like so OK so I didn't configure, just did some configuration.	O
+I think I'm also going to modify these arrows because we will prototype a kind of slide show affect.	O
+So what I'm going to do?	O
+Is I am going to.	O
+Hit on my keyboard and I'm just going to draw a square.	O
+And I think I want this squared to the 24th pixels.	O
+For better yet, let me just say something.	O
+OK, 48 so I'm actually going to make this for any 8.	O
+And I'm going to move this here.	O
+And let's change this black and some of the border.	O
+And I think I'm going to turn this into a component.	O
+So we can call this arrow.	O
+Let's see.	CHITCHAT
+So now that we have that.	O
+I'm going to press command you to duplicate it.	O
+And I was going to rotate it.	O
+To move it over to the other side.	O
+And.	CHITCHAT
+There.	O
+There we go, so we have.	O
+Or two arrows.	O
+Let me just make sure this is online to the center of our image.	O
+Awesome.	CHITCHAT
+OK.	CHITCHAT
+So now that I have that, I think I'm going to.	O
+Change the color of this image so.	O
+Going to just make it a Gray for now.	O
+And I want this.	O
+Let me just ungroup this.	O
+I want this to be black.	O
+Make this block.	O
+And I think I want to move this button down.	O
+And I'm going to resize it.	O
+So it takes up around 4 columns.	O
+There we go.	CHITCHAT
+So let's just see our design inspo.	O
+Yeah, so it's like a really nice big add to cart button.	O
+So let's just update this text to say add to cart.	O
+And we can also color that block.	O
+And I think I'm going to actually make this a component.	O
+And for this, because it's a button, I actually want to add a hover state, so when it's you know and it's default state, it's going to be, it's going to have a white fill and then a black border.	O
+So then when we hover I want it to be a black button with some way text.	O
+So I'm going to create a new hover state.	O
+An industry states we're going to add black Phil.	O

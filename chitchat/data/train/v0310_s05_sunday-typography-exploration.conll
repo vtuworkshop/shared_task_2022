@@ -1,0 +1,69 @@
+Or Huh?	CHITCHAT
+OK, what if?	CHITCHAT
+We do like this.	CHITCHAT
+Offset it like this.	O
+Remember, we started working from.	O
+Index just 'cause it was a little bit easier to get our head around sometimes.	O
+OK, let's say we select eight again.	O
+Let's take 8.	O
+Yeah, let's just redo what these are.	O
+OK.	CHITCHAT
+Ah, I just copied and pasted the same thing twice.	O
+Did I?	CHITCHAT
+I think I did.	CHITCHAT
+Yeah, I want to take this thing.	CHITCHAT
+And I want to put it here.	CHITCHAT
+Yes.	CHITCHAT
+So rather than doing the same thing, we're going to set it to add.	O
+That way, once here in one goes and said to subtract.	O
+And.	CHITCHAT
+Excellent, excellent question Scott, about the ease, the easing high and easing low uhm so.	O
+Yeah.	CHITCHAT
+This is actually probably one of the best ways to observe it, I think so.	O
+So it will be hopefully apparent.	O
+What's going on with this?	CHITCHAT
+In a moment, let me just.	CHITCHAT
+Dial us in here so that we can appreciate it.	CHITCHAT
+My index.	O
+Give me 12.	O
+And we're going to offset this to be.	O
+From here to there OK so.	O
+See if I can if this will make sense.	CHITCHAT
+So when it's Square, it doesn't help a lot.	O
+Actually, you know what this is actually the worst way to try to explain this.	O
+This will help more.	CHITCHAT
+Richard 3.	O
+Dot dot dot dot dot dot.	O
+OK.	CHITCHAT
+Whip So check it out, we got these dots right and we're going to animate their position.	O
+And let's say that the change in position is going to be to make them go up.	O
+Sure, now here we go.	CHITCHAT
+Well, don't worry bout following along for now.	CHITCHAT
+Who McLaren were going to be jumping all over the place but but.	O
+Holy this detour is easy to easy to follow, so we have selected from the first to the last.	O
+That's how big the range selector is.	O
+Let's instead choose 50% of it, so we've chosen 50% of it.	O
+Half of it is up, half of it is down.	O
+The stuff that is up is what we have selected.	O
+OK, good, we're going to change from square to round, and as you can see these form around shape wonderful.	O
+So this makes sense, right?	CHITCHAT
+That is now round.	O
+You've entered the tangent zone PD.	O
+So as you can see, this round shape is what's going through now if we offset.	O
+Z we can offset the roundness as it goes through.	O
+We've got this bubble now.	O
+Now, what does Isaiah Neslo mean?	O
+OK, so let's start easing on the high end.	O
+Oh interesting.	CHITCHAT
+Well, what's that what's happening?	CHITCHAT
+We're changing the shape of this thing.	O
+And you can kind of feel how the tangents are being pulled on.	O
+This put that back to zero.	O
+I'm going to move us from round to ramp up.	O
+'cause this is hopefully going to.	O
+Help a little bit more.	O
+So on the ramp up, if we were to ease it on the high end.	O
+The high end is becoming ease now.	O
+If we were to go negative, ease on the high end, you can kind of feel this tangent moving right.	O
+You can feel how that tangent is changing, right?	O
+And then if we were to ease it on the low end, you can feel how this tangent down here.	O

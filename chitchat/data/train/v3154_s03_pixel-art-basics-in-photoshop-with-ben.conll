@@ -1,0 +1,60 @@
+And if you click on that will bring a drop down and then I'll give you a couple of options.	O
+What we want here is the pencil option and now all your lines will be nice and sharp.	O
+And that's exactly what you want when you're making pixel art.	O
+How's that?	CHITCHAT
+What?	CHITCHAT
+So.	CHITCHAT
+Now you basically have all the building blocks.	O
+You need so there's the video.	CHITCHAT
+We're done.	CHITCHAT
+That's it.	CHITCHAT
+You guys can do pixel art now how's that?	CHITCHAT
+No, that's that's that's that's a joke.	CHITCHAT
+We got a lot more to talk about so um.	CHITCHAT
+Damn, it damn it damn it.	CHITCHAT
+Now that we have our basic tools out there's a couple things you should know if you hold shift while using a brush in Photoshop.	O
+It will make a straight line, you can also make.	O
+What would you call those?	CHITCHAT
+I'm not sure what I would call those but if you're holding shift why you click.	O
+You can go from your last point to your new point I'll make a nice line there that's pretty handy.	O
+Now I should have gotten you know what I've got something that I might be able to use here.	O
+I've been helping a friend make a game for his for his school for his class called Burger Viking.	CHITCHAT
+An Luckily I've got the whole spritesheet with me, so we can take a look into there and use that for some experimentation so.	CHITCHAT
+Uh let's just take a look at the spreadsheet as it is for now, it's very.	O
+Not ideal Sprite sheet because we were kind of on a budget.	CHITCHAT
+Why did that happen?	CHITCHAT
+I think.	CHITCHAT
+Where is that?	CHITCHAT
+Maybe I'll just need to open a new window.	O
+There we go.	CHITCHAT
+I don't know why it was so fuzzy.	CHITCHAT
+There's a couple of other things we have to get into about transforming your pixel art.	O
+Because oftentimes you'll get some problems with that for example, I'll just briefly talk about this one say we've got like a pixel art of a guy here and let's go for like a blue guy.	O
+Some white eyes.	O
+There we go just something really horrible to start your day and then we transform this Oh do I have Oh yeah.	CHITCHAT
+I've got this here just get rid of that.	O
+We transform this, it will stay pretty sharp.	O
+Let's undo that and go back to transform.	O
+Not that typically won't be your results typically are going to have an issue where you're set to like either automatic or bicubic sharper or something else that isn't nearest neighbor and if you scale up using that operator you'll get very fuzzy lines and that is not ideal.	O
+Some of you may agree with that some of you may not I don't really care.	CHITCHAT
+They just tend to not be ideal So what you want to do is make sure your interpolation up here while you're transforming.	O
+Is set to nearest neighbor and again to show you?	O
+How to get to that?	O
+We've got our layer.	O
+It's on its own layer here.	O
+I hit CTRL T to transform.	O
+And then interpolation.	O
+Nearest neighbor, there, you go and now you can change.	O
+This really, however you want and it will do some adjustments because it is locked to a pixel grid?	O
+Which of course, you can see if you go to view and I think it's under show and pixel grids you can see that it's locked in these pixel grids and we can't go any bigger or smaller than this, and it's going to do its best to accommodate.	O
+You're already drawn art.	CHITCHAT
+To the new shape, you want to give it won't be perfect, especially for rotation.	O
+Rotations almost always going to give you a hard time so try to avoid that if you can.	O
+Uh.	CHITCHAT
+Let's turn the pixel grid back off, I personally don't like to have the pixel grid on some people might like it, I personally don't.	O
+Alright so this is OK pixel art.	O
+This isn't terrible.	CHITCHAT
+It's got some nice dithering some good transitions.	O
+And it's got some good gradients, too, and what's cool about pixel art photo shop is you can do basically everything in photo shop that you normally can do.	O
+But with pixel art now, so that includes things like gradients, so if we want to make this guy go from this particular blue too.	O
+This particular pink and I just pressed X to switch my colors, there pretty handy.	O

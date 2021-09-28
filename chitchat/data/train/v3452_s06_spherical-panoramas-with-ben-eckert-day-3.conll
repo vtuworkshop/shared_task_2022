@@ -1,0 +1,63 @@
+Will make a new Panorama layer from selectors.	O
+I've merged all my layers together?	O
+You don't have to merge them necessarily you can just select the mall.	O
+But I think it will ultimately do the same thing and combine them into one texture.	O
+So it doesn't really matter.	O
+I think which way you do it.	O
+I'm sure there's a lot of interesting things you might be able to do like for example, making your layers into a smart object that might.	O
+That might not be a bad idea because you might be able to alter the smart object as a 2D plane while still being able to save it actually you know what?	O
+Let's just try that I've got.	CHITCHAT
+This is interesting.	CHITCHAT
+This is an interesting concept, so we go to 3D Spherical, Panorama, new Panorama.	O
+And this will make a combined.	O
+3D image.	O
+And we'll see if my if my concept of using another PC to take some load off is valid or not.	CHITCHAT
+We're looking alright, so far.	CHITCHAT
+OK, I will just take a little peek around yeah, there, we go.	O
+Let me zoom in a little bit.	O
+So we've got the Sky.	O
+There's my son, there, you see the sun.	O
+There my rough rough sketch of that.	O
+Let me go into perspective field of you make it a little bit higher.	O
+There we go.	O
+So now if I click on textures.	O
+Click on spherical map, perhaps I'm trying to find a way to possibly.	O
+Edit this texture, an if I click on 3D is it 3D.	O
+Let me go to the.	O
+The window workspace 3D here.	O
+And there should be a option.	O
+To view The actual material.	O
+That might object is made of.	O
+And we'll just see if I can open that up, it should be like a diffused layer.	O
+Um.	CHITCHAT
+And my hope was that I could actually open up.	CHITCHAT
+This smart object as its original layers and then make edits to that that will update in real time over here, but I don't see an obvious way of doing that, yet.	O
+Um.	CHITCHAT
+Let's just keep looking though I'll keep looking we've got 3D.	O
+Let's put this up here.	O
+Now typically you'll be able to see.	O
+You are mesh, which in our case is a sphere.	O
+You can normally see that and a typical 3D workspace.	O
+But like I said it seemed like they made some compromises to make it a bit more simplistic they changed a couple of things to make this a much more straightforward workflow and again this is a thing that I think.	O
+Needs a little bit more compromise to make it a little bit more useful.	O
+To make adjustments to but it's seeming like I'm having a hard time actually.	O
+Like expanding the mesh itself.	O
+Which I think would be tremendously helpful?	CHITCHAT
+Properties yeah, we don't really want to mess with the properties.	O
+There's nothing in there for us to use.	CHITCHAT
+I was hoping that maybe double clicking.	O
+Oh, this has opened up the.	O
+The texture now.	O
+I wonder if I were to make an adjustment here.	O
+It is rasterized this and put like a big, Big Green Line there will that.	O
+Oh yeah, OK that's kind of updating in real time isn't it, it's a little bit slow, though.	CHITCHAT
+It's a little bit slow and that's something I want to avoid if possible, so working still in that in the 2D and then converting it might be the better way of doing it still.	O
+But this does seem kind of like a valid strategy so again to get into their let's just undo that I just double clicked on.	O
+Something in here, I don't know if it matters.	CHITCHAT
+what I click on so far.	CHITCHAT
+I'm clicking on spherical map.	O
+I'll click on textures now.	O
+Yeah, it looks like you'll need to actually double click on spherical map.	O
+To open up.	O
+Or even even previews it for you, if you hover your mouse over Top.	O
+Or it's right as soon as I clicked on it, there, it is so it does preview for you what you're working with there and then you can open this up and while I elected not to save the changes it still apply the changes anyways.	O

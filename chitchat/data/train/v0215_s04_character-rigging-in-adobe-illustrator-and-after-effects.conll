@@ -1,0 +1,55 @@
+I'm blocking the view of them, that's awesome, so my layers are named right here.	O
+And, uh.	CHITCHAT
+Now that those are names, my characters organized the last thing I want to do is just visually Markov, where the points in this rig needs to be placed now is up to dinner.	O
+Have a go order something great now I'm I just finished dinner.	CHITCHAT
+Some kind of stuff, but I hope you have a Good Hope.	CHITCHAT
+You have a great dinner.	CHITCHAT
+I'm having a liquid dessert.	CHITCHAT
+OK, so we've got all these broken out and like I said now what I'm going to do is create some joint markers.	O
+So I'm going to create a new layer.	O
+I'll call it joint markers.	O
+Like so.	CHITCHAT
+And we assume out just a little bit so we can see the whole character and just think about how he may move.	O
+So unlike a regular human character, chicken yellow doesn't have full arms and so I don't have the benefit of elbows or real shoulders or hands.	O
+We've just got these wings, but That being said, I do potentially want to be able to animate them so the wings may flap.	O
+They may wiggle and so both wings are going to need.	O
+Pins in them in a part of the rig and the way that you normally go about this to keep the rigging process again as straightforward as you can, I'm going to choose a different color.	O
+Here is just to create some visual markers to indicate where you're going to want to create joints or anything that is going to be manipulated and so going to create it about.	O
+But a good kind of hit size.	O
+And you'll see why once we get into after effects to rig and then I'm just going to turn off the body and the beak for a minute so that we can.	O
+Speak turn off.	O
+OK, so we're going to create another joint marker up on his left wing.	O
+Like that we can turn those layers back on now.	O
+All right, so we've got a couple of joint markers there.	O
+Then we need to think about mostly, especially given that we want to create a walk cycle, where should the markers be on his on his legs and feet?	O
+And so I'm going to make a copy of this marker.	O
+He's going to have spots for his hips, and actually I think I'm also going to round the tops of these.	O
+Rectangles.	O
+Maybe?	CHITCHAT
+Pull it in and that way I can actually we again turn off the body.	O
+We can actually put the drunk marker right at the top of that.	O
+Joint do the same thing on the left leg by selecting the top two points and then using the corner tool to trim those into circles half circles.	O
+Then I'm going to put another joint marker there and so these are going to be the markers for the Hipc of my character.	O
+Like that?	CHITCHAT
+All right?	CHITCHAT
+So let's turn the body back on.	O
+Now I want to mark off the knees.	O
+So these are probably about here.	O
+And about here, and we can make some fine tuning adjustments once we get into.	O
+After effects, but I do want to get a good idea of where these joints will be and then just like we did before, I'm going to mark off.	O
+Where that ankle is.	O
+Bring that over.	O
+It's like that, so these are going to be the key points that I'm going to include in the rig.	O
+And these I'm going to bring into after effects.	O
+They will give me markers now that I can use to help guide where the different points in my puppet and in my rigging tool will be placed.	O
+So I'm going to say this.	O
+It should be good to go.	O
+Just do a quick visual check to make sure everything is split out the way that I want it going to move the swing up.	O
+And that is looking good.	O
+So save it one more time and let's talk about rigging.	O
+Gonna open up after effects.	O
+Will wait for that to open.	O
+It's working.	CHITCHAT
+It wants to open.	O
+There we go.	CHITCHAT
+We're almost there.	O

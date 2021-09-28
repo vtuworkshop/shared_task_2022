@@ -1,0 +1,52 @@
+We've got our layers, but in between all of the artwork layers there are now this new set of layers with so with the S is structures up here below.	O
+Now we have these B prefix layers and these are all the bones of the rig, so there's like a whole bunch of bones that have been created and those are represented in that actual character by these little red pins.	O
+And so these are all of the joint markers that came in as a part of the bones.	O
+Now as if the rest of this wasn't complex, the next portion is complex and I hope I get it right.	O
+But now we have to do is actually connect or rather parent in after effects language we have to parent the bones to the artwork and the structures, and so we're going to do that bit by bit and hopefully I will get all of this right?	O
+So let's start with we don't need to do anything with the hair.	O
+Don't need to do anything with the Baker, the people they actually.	O
+We do these.	CHITCHAT
+We're just going to grab the Pick Whip and we're going to parrot those to the body just so that they are fully connected.	O
+As my character moves and they'll stay connected with the body, we won't worry about facial expressions in animation yet will get into that.	O
+Maybe a little ways down the road as I've learned about doing and maybe some other plugins a little bit more, but that's the first parenting that was the easy one.	O
+The next one that I want to do, we might as well just kind of work our way down the list is to grab the wing and the bones for the right wing, and again, This is why I wanted to rename those puppet pins is now each of those bone layers has the name of that puppet pin, so our wing matches our wing and I need to connect that to the right forearm because that is the point that I created here.	O
+Mouse is my gods.	CHITCHAT
+Are you say that you're a noob and stuff?	CHITCHAT
+I would be having my 4th seizure already trying to understand all of that.	CHITCHAT
+I tell you about my.	CHITCHAT
+My brain is set to explode at this point and I'm hoping all of this is going to work, but we shall see Alright, so we're going to parent the right wing to the right forearm and that right forearm is what was the name of the structure was the created this this wing piece.	O
+So that's the first part.	O
+If we move next down the list, actually, let's go to the next piece of artwork.	O
+So we're going to grab the body.	O
+Artwork and the body hips.	O
+And we're going to grab that pic book again and we're going to parent those to the structure of the Hipc.	O
+So those are connected, and then we'll move our way up.	O
+So we want to take the neck and parent that to the structure of the neck we want to connect the left.	O
+Or is this the which shoulder is this?	O
+Expand this out a little so we can see the layer.	O
+This is tough on the small screen.	O
+Alright, so we want to connect the right shoulder too.	O
+Uh.	CHITCHAT
+Then think about this for a minute.	O
+The right shoulder bone.	O
+I'll come back to will come back to the hips in the bones.	O
+I think those actually will connect to the.	O
+Oh, now I remember the right shoulder is going to connect us.	O
+Right shoulder pick whip.	O
+Is going to connect to the right forearm.	O
+The left shoulder is going to connect to the left forearm.	O
+The left hip is going to connect to the.	O
+Let's tie.	O
+And the right hip.	O
+Is going to connect.	O
+Where is the?	CHITCHAT
+There is so the right hip.	O
+Right hip is going to connect to the right side.	O
+Go.	CHITCHAT
+All right, so all of the body is connected.	O
+Now we're going to grab the left wing and the left wing artwork and the left wing bone and will pick what those and connect them to the left forearm.	O
+Right here, move down and now will start the right leg so the right leg artwork and the right leg hip will connect to the right thigh.	O
+The right knee.	O
+Will connect to the right calf and the right ankle will connect to the right foot.	O
+All right?	CHITCHAT
+Will go down to the right foot.	O

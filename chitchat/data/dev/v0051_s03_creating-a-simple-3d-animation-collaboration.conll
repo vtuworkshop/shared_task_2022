@@ -1,0 +1,66 @@
+There's more reasons than what I understand of why to do this, but this is not just, yeah.	CHITCHAT
+Alright, so I'm going to do alt R which supposedly removes everything all my rotations, oops no or moves everything, so let's get OK.	O
+All right, so we're going to go ahead and clear this out.	O
+000.	O
+Alright sweet, so we want this to be 180 I believe.	O
+I think negative 180 Oh Fudge Nugget one of my.	O
+Touching.	CHITCHAT
+Is it not parenting the way that I thought it would?	O
+It should be.	O
+Alright, so I'm just going to go here.	CHITCHAT
+And then we should see the camera move, yeah?	O
+So we're seeing the camera move.	O
+The camera move should move like that.	O
+There we go.	CHITCHAT
+That's nice.	CHITCHAT
+Alright.	CHITCHAT
+So I was playing the wrong one I was doing.	O
+I should have just did 90.	O
+All right, so let's Go X minus 90.	O
+And let's look at the cameras perspective.	O
+All right?	CHITCHAT
+So that was obviously.	CHITCHAT
+All right, so it's negative 62.2, which obviously is not right from a mathematical standpoint.	O
+But the reason why that is because there must've been some adjustments that I did that I didn't apply and so therefore everything looks really weird.	O
+So I can't just do next negative 90, so that's one of the things about this.	O
+OK is that you have to apply things.	O
+Alright so I'm just going to go back back back, back, back, back, back, back back, back, back, back back, back back back back.	O
+Alright cool we're going to do I I think it's control a We're going to apply all the rotations camera we're going to also apply.	O
+All your transformation.	O
+Your rotation.	O
+Am I collecting the wrong one?	CHITCHAT
+Alright is saying objects has no data to transform, but I see it right there so I don't know.	O
+I don't know, alright, so let's go ahead and we're going to parent.	O
+Alright, and now.	CHITCHAT
+When we change one, the other one should change alright.	O
+So now when we go do this?	O
+Alright negative 90.	O
+Alright cool.	CHITCHAT
+All right, and so I'm going to go ahead and we need to move the.	O
+There it goes.	O
+Alright, and so should this be a little bit bigger I think so.	O
+Maybe not that big.	O
+Anyway, so I'm just going to move it down a bit.	O
+And then over.	O
+Alright, and that's going to be our hands, so that's what that is what we're going to see.	O
+Alright sweet so now.	O
+We need to start getting our animation in here OK.	O
+So what we're going to do is that we're going to open up.	O
+This is our animation in the bottom, and as you guys can see that there are, it goes to zero to 250.	O
+That's not necessarily how long I want mine to be.	O
+So we're going to end it at.	O
+180 actually 160.	O
+Alright cool and So what we need to do.	O
+Is that I need to go back here.	O
+And I want to go back to.	O
+0.	O
+OK, so I'm trying to figure out where do we want.	O
+Where do we want our camera to start?	O
+So I remember last time when I did this it was kind of off to the side and it was.	O
+I never really played and it was looking at.	O
+Yeah, zed.	CHITCHAT
+There you go, and maybe a little bit down.	O
+Alright, I'm going to shift till day.	O
+Just to bring my camera up a little bit.	O
+All right?	CHITCHAT
+Three, so in order for me to start doing movements, I have to do key frames, right and keyframes help us indicate what's going to move and when it's going to move OK.	O

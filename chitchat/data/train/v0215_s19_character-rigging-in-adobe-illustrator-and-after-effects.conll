@@ -1,0 +1,54 @@
+So each of the controllers also has this icon to represent it.	O
+So we just looked at those.	O
+These are these red icons that are in place and they.	O
+Especially once it gets over the body, they are the things that we can grab to actually move our characters.	O
+So what happened?	CHITCHAT
+What happens if I grab the hips of chicken yellow?	O
+Actually does simplify my view a little bit.	O
+So that the render is.	O
+A little less aggressive.	O
+Fast previews.	O
+Will go too fast draft for this, just so that we can see what's happening.	O
+So watch what happens.	CHITCHAT
+If I grab the foot.	O
+So here you can see now I've got this bend that's happened in the foot as I've moved it.	O
+And let's do it on this one.	O
+So that's not necessarily bending in the right way yet, but we are getting a bend in that foot.	O
+So that's cool.	CHITCHAT
+So we've got these controllers.	O
+Probably don't want them to always live over each of the characters, and So what I can do is to move them out-of-the-way.	O
+Maybe make a few of them bigger so that they are easier to grab and play with, but also zero out the positions of all of these and let me show you.	O
+If I select all of these.	O
+Select all of our controllers and hit P so that we can see the position of them and I'll have to.	O
+Move this over so you can see that if you look at the position coordinates of all of those, those are all relative to their parents and so those numbers.	O
+If I move all of these pieces around and then realize, Oh my goodness, I screwed up.	O
+I need to go back to the original rig.	O
+I need to remember all those coordinates and that sucks.	O
+So I want to 0 all of them out and Luckily do X plugin mix that really easy for me.	O
+all I have to do is we can't see it in this view, so I'm going to make this little smaller.	O
+Shrink this down.	O
+Bring this up so if I bring this up so you can see more of the do it plug in in this middle links an constraint section of the plugin, there's an option called 0 and if I hit that, what it's going to do is it's going to zero out the positions of all of these controllers, so that if I ever move things around and need to reset the controller, I can just easily set them all back to 00 and So what?	O
+The plugin is actually done is just create nulls that has nested the controllers inside of so.	O
+Not something I need to be super concerned with, just to know that now my rig has a zero point.	O
+And is nice and simple.	CHITCHAT
+So now the next thing that I want to do is make sure that the IK the.	O
+The all of the rigs are in the right position that they move the limbs in the correct directions and that also is pretty simple.	O
+So if we start out by selecting the right foot and then looking at this controller area above, you'll see that there are controls for the icon, which is this little hand for the anchor which is the little + If we zoom in here, the little + that shows us where it's located so I can do some manipulations there.	O
+You can also say what side of the?	O
+Oh wait, I'm looking at the foot and we zoomed in on the hand.	O
+It's got a foot you can say what side of the leg this this foot is on.	O
+You can set up some of the IK.	O
+For it You can stretch.	O
+You can play with the foot roll.	O
+You can put the character on tip toes.	O
+So there's a ton here, so the simple things that I want to get started, I'm just going to open up this icon.	O
+And I want to have the foot just actually first of all change colors so we can see it against the.	O
+Against chicken yellow.	O
+Make it that my science so it stands out.	O
+I also just for aesthetic reasons, want to point it in the position of being of the foot.	O
+So I'm just going to turn it that way and will close up that icon.	O
+I think the size of this one is fine.	O
+And then we also just want to make sure and confirm that we're working on the right foot in this controller here, and that the IK foot is also, or the leg is set to right.	O
+So I'm going to click save.	O
+And then I'm going to go up to the top of the controller and hit copy.	O
+And I'm going to then drop that.	O

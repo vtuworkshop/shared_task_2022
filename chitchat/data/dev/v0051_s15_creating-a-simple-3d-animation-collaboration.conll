@@ -1,0 +1,64 @@
+It's clever, has a lot of things to do right now or you talking about my person.	O
+Either way, there's a lot of stuff that needs to be done, so we're going to go ahead and move forward.	O
+OK, so we're moving this sun up to the.	O
+Wrong collection, that's cool.	O
+So we're going to move it here.	O
+I'm going to go ahead and hide the fist.	O
+OK, so son.	CHITCHAT
+Mr Golden Sun Please Shinedown on main he got some birds that song.	O
+And I think that was like Barney song.	CHITCHAT
+I don't really know.	CHITCHAT
+Alright, so there's a couple of different render engines that.	O
+Already comes with blender.	O
+Already comes with EV and cycles.	O
+Alright, so if you guys have a GPU.	O
+Sometimes your GPU that you have actually will not be compatible with blender, but because blender is a shareware, what's really cool about that is that if you end up buying a GPU that's not supported by blender, oftentimes that GPU company will actually have its own render engine that you can essentially add-on into blender, and that's one of the powerful things about blender, it being a shareware.	O
+There is a butt ton of add ONS that you can add.	O
+To it so anyway, so I have a radio on a GPU.	O
+Christian said he is heard of EV.	O
+I I've used cycles and I have used the Radion Pro render.	O
+But I have not used TV so anyway, so I'm currently using the Radion.	O
+I'm going to go to my son an I'm we're going to go ahead.	O
+Where's my son icon here son son son son son son light right here alright cool so right now it has no strength.	O
+So I'm going to, like quite literally, put the strengths really high.	O
+I like the shadows being kind of soft and The thing is, is that right now you can't even really see what the sun is doing because we're not in A.	O
+This is what changes my thing because we're not in a render mode.	O
+Alright, so I'm going to go ahead.	CHITCHAT
+I'm moving my son kind of back 'cause I want the shadows again.	O
+If you guys are just here, redshift is my main Christian, says redshift is.	O
+Beyond me, I think redshift is her legs, super powerful, like 3D people in the Christian.	O
+Maybe that's who you are.	CHITCHAT
+'cause I love it.	CHITCHAT
+I'm not into riches.	CHITCHAT
+Uhm, I mean, I've also heard of like octane is also pretty freaking amazing as well.	O
+Alright, so I'm kind of pointing my light towards my guy.	O
+We're going to call this guy.	CHITCHAT
+I don't know.	CHITCHAT
+I don't know.	CHITCHAT
+We're not call him Alright so I'm going to click my render guy.	O
+All right, and I can't see any shadows.	O
+What's going on with my shadows?	O
+Out where is my shadows?	CHITCHAT
+I'm going to go ahead and quickly click F2.	O
+Or F-12.	O
+Out so there you go.	O
+You can see it right there.	O
+So that's not a very bright light friends.	O
+And what's really funny is that the shadow is looking like it's hitting above his feet.	O
+Don't really know what's happening there.	CHITCHAT
+Uh, but what I do like about it is that how you can see how the UM.	O
+The shadow definitely get softer as it like drops.	O
+Which is.	O
+This parameter right here is softness, so if I did like 13.	O
+There you go, that's it.	O
+If we did 13 you can see how soft it is.	O
+I'll go ahead and hit F 12 to render that out really quick and you can see how soft that that light becomes.	O
+Oftentimes, whenever I wanted really soft light, I would actually use an emission material, so I would just make a pain or like whatever it is and make that emissive an.	O
+It would create a really soft light, but something that I really like with this one is that I can make this like.	O
+Alot alot.	CHITCHAT
+Alright, so even though in the strength.	O
+You can actually make it a lot brighter.	O
+It only will let you.	O
+Obviously I just did like one 10,000, so that's why Cray Cray.	O
+Uh, well, let's do 200, so if you just want to scroll, it'll only scroll to 10, but you can put more numbers on there.	O
+All right, and so the reason why this is really important here, really the Shadow and how like dense the shadow is is because again, if you guys remember the proof of concept, the shadow is going to fill the fist.	O

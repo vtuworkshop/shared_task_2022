@@ -1,0 +1,66 @@
+And so we want to make that agree scale 2 just both of them together, So what we can do is we can select these and what I like to do is make a new document personally.	O
+Yeah, it's incredible isn't it?	CHITCHAT
+Thank you turtle.	CHITCHAT
+Make a new document I'm just going to use my.	O
+This guy here.	O
+Make a new document of the same dimensions that I like to do and then we will.	O
+Cut Copy whatever you prefer and then paste into your document.	O
+I'd like to do paste in place for the work that I like to do.	O
+Depending on what you like to do it might be a different topic, but now that we have this here.	O
+All you do is go to image mode grayscale.	O
+You can merge if you like if you don't like to won't matter because it's going to merge anyways and this next step, which will be image mode and then bitmap.	O
+Now the bit mapping is where it's going to be important so.	O
+Uh I typically just do you know diffusion dither?	O
+I don't play around these too much diffusion do their works just fine for me but the resolution is the biggest factor here.	O
+The size of your dots will be influenced by your DPI here, So what you can do I like to do have it?	O
+And that will give you a screen tone.	O
+Loke actually know what I'm going to make it 600.	O
+Will keep it at 600?	O
+'Cause that was looking a bit crusty wasn't it so there.	O
+We get a lot more value here and you can see all of the grayscale has turned into dots.	O
+Here is well, you see so all that is become entirely black or white.	O
+There you go and this is a pretty bad example.	O
+I've got a better example.	O
+I'm going to grab a photograph that I've taken just use that for for reference.	O
+Now this doesn't always look great.	CHITCHAT
+Let me just find my photos.	CHITCHAT
+Will take a look at?	CHITCHAT
+I've got one in mind that I want to use.	CHITCHAT
+Give me one second.	CHITCHAT
+I thought I had it on hand.	CHITCHAT
+Here we go I've used this before, in my value painting examples.	O
+So we have this photo here of a nice little building environment.	O
+Pretty straightforward I see we're dropping some frames again.	O
+I hope it's not too bad.	CHITCHAT
+But yeah, we've got this scene here and say, We want to make this look like it's got screen tones in it, so simply.	O
+Select all copy it and just paste it right in and I think I look at that.	O
+Why would it automatically made it into a screen tone just by leaving it as a bitmap there you go there's no color there, it's entirely black or white.	O
+And this might be a little bit, too, simple.	O
+It may not be exactly what you want and you can see at this particular level.	O
+It gets really Moray.	O
+Which I was talking about earlier?	O
+And that will be addressed at some point in the future but not right now basically that's just the process, there and what you can do is obviously having this as a bitmap doesn't really help out So what do you do you just go back to mode and then grayscale the ratio here depending on if you change your DPI?	O
+When you made.	O
+Your grayscale your bitmap.	O
+Rather, you want to change it here.	O
+So if you set it to 300.	O
+You'll need a double your ratio.	O
+To make it go back to the exact size that it was when he brought it in for me, I changed to 600.	O
+So I'll just leave it at scale ratio one and then send it back to RGB might as well.	O
+So what I usually do not have one problem if you bring this back into your document.	O
+It has a white background now an you know, we've talked about how to make that not a problem.	O
+Just set it to multiply that's one option.	O
+That is one option, you have, but what I prefer to do.	O
+Is before I bring it back over?	O
+I like to double click my layer?	O
+Which you can adjust it here?	O
+When you do that.	O
+Unlocks your background.	O
+I guess you just click.	O
+The lock button as well.	O
+But I have my method, you can choose your own if you'd like to.	O
+Now you could do the one tool and select the white.	O
+Which work in some cases, but sometimes you get a fairly dense batch of pixels like here for example, that won't be caught by those selections.	O
+So I like to go to select color range and then select the white.	O
+And there's only white or black so there's no issue of greys or anything like that.	O
+So it'll get rid of everything that isn't black and now you can just drag it back into your working file.	O

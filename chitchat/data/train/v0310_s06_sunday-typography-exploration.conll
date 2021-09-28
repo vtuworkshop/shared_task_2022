@@ -1,0 +1,71 @@
+Is moving.	CHITCHAT
+Right?	CHITCHAT
+So in terms of what is the high end?	O
+What is the low end you know, that is the what we would say in this case is the leading or trailing end of this thing the start or the end?	O
+So the high end?	CHITCHAT
+What is what is high end?	CHITCHAT
+Mostly Bugatti's, but for our purposes you can think of the high-end meaning closer to the end of the low end down here.	O
+So this example, I hope.	CHITCHAT
+Makes makes that a little bit more literal.	O
+Now what's funny.	CHITCHAT
+Not haha funny but kind of weirdly funny.	CHITCHAT
+Is how this behaves in things like.	CHITCHAT
+The triangle right?	O
+So triangle looks like this.	O
+What would happen if you were to ease that?	O
+Oh, it gets rounder as you ease, you know you can go work for right?	O
+You can do this and this is easing the high right.	O
+The high point of this so.	O
+The high point, the maximum value of the shape right in the ramp in the ramp.	O
+The maximum value of the shape.	O
+Happened to be at the end, but here the maximum value the high point happens to be in the middle, so that's Why when you ease high, that's what happens.	O
+And this down here is the low point.	O
+So if we were to ease the low and then we end up with this kind of Bell shape right the week and then push through.	O
+So hopefully that makes sense with what is high knees low.	O
+R and mean.	O
+Sometimes we conflate that we would say, well.	O
+Why does it not mean the same as with key frames, right?	O
+Uhm, so how does this impact animation?	O
+Well, whatever, whatever value you're pushing through, right?	O
+So if you're changing in this case, the positional value of things.	O
+That This is this is where it is, you know.	O
+Uhm, so, for example, this is the classic.	CHITCHAT
+Let's go to a classic form that I usually do.	O
+This is a real Ebony Room Special.	O
+That I that I.	CHITCHAT
+Do as crimes.	CHITCHAT
+Not crimes, but like.	CHITCHAT
+I don't know, you'll see.	CHITCHAT
+How do you know it's an Evan project?	O
+Because he's probably.	O
+Laid something like this on it so.	O
+Well, the shape is the animation right?	O
+So this is what's important to remember is that?	O
+They are the same right?	O
+And that one is the other.	O
+So here's how we would use this, right?	O
+So I've gotta ramp down and I'm going to set my eases to 0 and that's what it looks like as we animate this through what I'm doing is I'm increasing the size of the range and I'm offsetting it through the peace.	O
+Which is great good for me.	O
+Very wonderful, right?	CHITCHAT
+Or we could go ramp up and return everything to normal.	O
+See you do that.	O
+Much more commonly I'm doing.	O
+Like this, everything is rising up a little bit.	O
+Like so.	CHITCHAT
+Now.	CHITCHAT
+If, for example, we want to change the quality of this, so we want to make it more dramatic, let's say and here.	O
+Let me do.	CHITCHAT
+Example of shape in motion.	O
+So we could tighten it up right?	O
+'cause I can make this faster example of shape in motion?	O
+And.	CHITCHAT
+Might think well, hey to affect this animation, what must I do?	O
+Well, I should ease these right?	O
+Well, well, well now it still feels like almost exactly the same.	O
+Not much has changed right example of shape in motion.	O
+Let's see what we got here and we change this 200.	O
+Just so I can get my numbers right so.	O
+Here's how it looks one way.	O
+Here's how it looks.	CHITCHAT
+If we eased the key frames.	O
+Pretty similar, right?	O
