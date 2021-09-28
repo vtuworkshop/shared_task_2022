@@ -1,0 +1,57 @@
+I'm going to.	O
+So this right here.	O
+I'm going to have to.	O
+Select This edge to do this cleanly.	O
+I'm going to delete all of those vertices.	O
+All right now.	O
+What happened, I just wanted to delete those, not those.	O
+Delete that face.	O
+Let's see.	O
+All right?	O
+We're just going to do this not very clean.	O
+So anyway, if I'm yeah.	O
+For his going, we're going to do.	O
+That's going to have a little bit of the lip.	O
+So that little edge makes sense then alright, cool, so now we have our thing.	O
+It kind of looks like a pie like a sausage.	O
+I don't know, alright but everything is solid so none of these things are actually interlocking.	O
+So even though I put it in here, it doesn't necessarily mean that whenever I make it it would interlock.	O
+So there's going to be some modifiers that we do.	O
+I'll do it one time and then we'll go ahead to the next step.	O
+So how we're going to do this?	O
+If you guys are interested.	O
+Is, uh, we're going to go into object mode.	O
+I'm going to pick the thing that I want to be cut.	O
+Go into my modifier and say, like, OK, we're going to go to Boolean or whatever.	O
+I have different.	O
+I want to select this guy that.	O
+And I'm going to now I can not get rid of this guy.	O
+Note this guy.	O
+There you go and now you guys can see that there is a whole because I click different now The thing is is that it's non destructive until I hit apply.	O
+So I'm going to go ahead and hit apply because that's what I want and now I'm going to essentially just do it again.	O
+But to the next one.	O
+Boom Apply alright, so now that I look at that alright, sweet so now I have two holes, so that's cool.	O
+So now I can, you know cut this and it will have two holes for me and I'm going to keep going until everything has holes that I needed to have holes.	O
+And then as soon as I'm done with their what I do is I will export this as a OBJ file.	O
+And when I export it as a OBJ file then I can come into this neat little app called UN folder.	O
+This is a Mac app and I can go ahead and I can select.	O
+What I want to make and what it's going to do is that it's going to change it into.	O
+A paper template for me, which is really, really cool and so over here on the left hand side you can.	O
+I can kind of rotate it so I can see all the way around it.	O
+Another thing that's really cool is that I can select what I have over here in the template and I can see let over here in blue.	O
+This is what I am going to create which is really cool with that template goes there an another thing that I can see here is that the black lines are where it's going to cut.	O
+The dotted lines are where it's going to score and the white.	O
+Items are going to be the tab, so that's where it's going to.	O
+To touch, so while that's really cool, you can also see.	O
+However, this is my page.	O
+So these are my pages, so right now if I do a letter.	O
+I mean, this is really cool, but this isn't going to cut in a letter whatsoever.	O
+So what I end up having to do is I end up having two separate things.	O
+In order to get things to cut now, I mean I can.	O
+I'll rotate them right to be able to put more than one thing on an 8 1/2 by 11, but I go through this and through everything and then once that's done you go to file export.	O
+SVG and you click all the things that you want to export, so I don't want the page border.	O
+I don't want the flat Phil.	O
+I don't want the face Phil, I just want the cutting line and the Ridge and Valley fold lines an I want to optimize for CNC right?	O
+So scene sees commute computer.	O
+And cutting essentially, and so I have a cricket which is a CNC or silhouette or there is quite literally regular CNC machines that work with like wood and stuff.	O
+So anyway so then you click next and it go ahead, you save it, you export it, all that good stuff.	O
