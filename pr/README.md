@@ -32,6 +32,19 @@ EXCLAMATION
 O
 ```
 
+### Data example
+```
+ok    COMMA
+let's O
+see   PERIOD
+so    COMMA
+I'm   O
+going O
+to    O
+call  O
+this  PERIOD
+```
+
 ### Evaluation
 
 The system's performance is evaluated using the standard precision, recall, f-score (micro) on token-level.
